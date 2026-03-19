@@ -85,7 +85,7 @@ min_time = 1000
 # format = "[─](fg:separator)[](fg:duration)[󰥔](fg:icon bg:duration)[](fg:duration bg:background)[ $time](bg:background)[](fg:background)"
 disabled = false
 time_format = "%R"  # This displays time in 24-hour format (e.g., 14:30)
-format = "[[  $time ](fg:#a0a9cb )]($style)"
+format = "[[  $time ](fg:#a0a9cb )]($style)"
 
 [custom.jj_change]
 description = "The working copy of the repo in your current directory: workspaces (if relevant), change ID, bookmarks"
