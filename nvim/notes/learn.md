@@ -1,6 +1,0 @@
-- CS221   - Artificial Intelligence
-- CS229   - Machine Learning
-- CS230   - Deep Learning
-- CS234   - Reinforcement Learning
-- CS231N  - Deep Learning for CV
-- CS336    - LLM from Scratch
